@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https;//shawnjamil.github.io/Youtube/static/css/main.b93f80ab.css",
+    "main.js": "/https;//shawnjamil.github.io/Youtube/static/js/main.c6290a2f.js",
+    "index.html": "/https;//shawnjamil.github.io/Youtube/index.html",
+    "main.b93f80ab.css.map": "/https;//shawnjamil.github.io/Youtube/static/css/main.b93f80ab.css.map",
+    "main.c6290a2f.js.map": "/https;//shawnjamil.github.io/Youtube/static/js/main.c6290a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93f80ab.css",
+    "static/js/main.c6290a2f.js"
+  ]
+}
